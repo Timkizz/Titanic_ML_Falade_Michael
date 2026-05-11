@@ -6,7 +6,7 @@
 
 ### Role: Machine learning Intern 
 
-### Project Overview 
+# Project Overview 
 
 This project is an exploratory analysis of the Titanic dataset, completed as part of the AnalystLab Africa internship assessment.  
 
@@ -36,11 +36,11 @@ Age: Younger passengers (children) showed higher survival rates in certain class
 
 ### Tools Used 
 
-### Language: Python 
+Language: Python 
 
-### Libraries : Pandas (Data Manipulation), Seaborn and matplotlib (Visualization) 
+Libraries : Pandas (Data Manipulation), Seaborn and matplotlib (Visualization) 
 
-### Environment: Jupyter Notebook / Vscode 
+Environment: Jupyter Notebook / Vscode 
 
  
 
