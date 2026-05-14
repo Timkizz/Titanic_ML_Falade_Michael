@@ -1,4 +1,4 @@
-# TITANIC SURVIVAL ANALYSIS INTERNSHIP ASSIGNMENT (TITANIC DATASET) 
+# TITANIC SURVIVAL PREDICTION INTERNSHIP ASSIGNMENT (TITANIC DATASET) 
 
 ### Submitted to : AnalystLab Africa 
 
@@ -16,7 +16,7 @@ The goal is to perform data preprocessing and Exploratory Data Analysis on the T
 
 ### Methodology and Process 
 
-Data Cleaning: Dropped Unnecessary columns and handled missing values in the Age and Embarked columns to ensure data integrity 
+Data Cleaning: Dropped Unnecessary columns and handled missing values in the Age and Embarked columns to ensure data integrity
 
 Exploratory Data Analysis (EDA): Visualized survival distributions across various features such as Gender, Passenger Class, Age 
 
